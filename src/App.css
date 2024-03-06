@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+.student {
+  border: 1px solid white;
+}
 
 .logo {
   height: 6em;
